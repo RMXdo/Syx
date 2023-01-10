@@ -1,0 +1,14 @@
+
+  "status":"OK",
+  "tag":"payRequest",
+  "commentAllowed":255,
+  "callback":"https://syx.cat/lnurlp/SYX/callback",
+  "metadata":"[[\"text/identifier\", \"sats@syx.cat\"], [\"text/plain\", \"Sats for SYX\"]]",
+  "minSendable":1000,"maxSendable":11000000000,
+  "payerData":
+    {
+      "syx":{"mandatory":false},
+      "syx@dp.ms":{"mandatory":false}
+    }
+}
+  
